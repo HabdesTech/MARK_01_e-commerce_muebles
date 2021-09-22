@@ -1,3 +1,6 @@
+
+
+
 //Esta sección sirve para crear el contador de productos
 const cantidadProducto = document.getElementById("contador")
 const incrementar = document.getElementById("plusCircle")
