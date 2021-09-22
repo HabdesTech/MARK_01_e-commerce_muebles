@@ -812,7 +812,6 @@ ul.breadcrumb li a:hover {
 
 @media(max-width: 425px) {
     .banner_section, .articulos_destacados_section, .decorar_hogar_section, .nuestra_productos_section, .comentarios_section{
-        border: 1px solid red;
         margin: 15% 5%;
     }
 
